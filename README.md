@@ -1,1 +1,1 @@
-# Hello-world-mv1
+# Portfolio: setup and mobile version skeleton
